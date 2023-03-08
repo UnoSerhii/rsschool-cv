@@ -40,4 +40,4 @@ Used Bootstrap and JavaScript/JQuery.</p>
     result++
   }
   return result
-}```
+}
