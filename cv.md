@@ -5,6 +5,7 @@
 
 **Contacts:** <br>
 [Linkedin](https://www.linkedin.com/in/serhii-kokorskyi-23436b251/) <br>
+[Telegram](https://t.me/Serhii_Kokorskyi) <br>
 kokorskyiserhii@gmail.com <br>
 **Discord -** Serhii Kokorskyi (@UnoSerhii) <br>
 
