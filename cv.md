@@ -26,7 +26,7 @@ Used Bootstrap and JavaScript/JQuery.</p>
 _English - pre-intermediate and learning english now_
 
 
-Code with CodeWars: <br>
+**Example code with CodeWars:** <br>
 ![mountains](/assets/1.jpg "Profile")
   ```function persistence(num) {
   let numStr = String(num)
